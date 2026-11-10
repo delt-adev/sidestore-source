@@ -1,0 +1,9 @@
+{
+  "source": {
+    "name": "Delta's SideStore Source",
+    "identifier": "com.delta.sidestore.source",
+    "defaultDeveloperName": "Delta",
+    "defaultDescription": "개인 배포 iOS 앱"
+  },
+  "apps": []
+}
